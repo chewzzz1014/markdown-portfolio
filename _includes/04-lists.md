@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+To-do list
+* Laundry
+* Assignment
+* Prepare dinner
